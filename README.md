@@ -5,6 +5,6 @@
 
 # 現状の成果物(4/7 プリッカソン7にて)
 
-[!](https://raw.githubusercontent.com/zenmaibane/UchinokoKisekae/master/Assets/readmeResource/screen_to_gif.gif)
+[link](https://raw.githubusercontent.com/zenmaibane/UchinokoKisekae/master/Assets/readmeResource/screen_to_gif.gif)
 
 まだまだキラキラエフェクトがないのでただの着せ替えになってる
